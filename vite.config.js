@@ -12,5 +12,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: '/podoshva-market.vercel.app/'
+  base: 'https://podoshva-market.vercel.app/'
 })
